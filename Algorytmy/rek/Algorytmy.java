@@ -1,6 +1,6 @@
 package rek;
 
-public class Main implements AlgorithmExercise {
+public class Algorytmy implements AlgorithmExercise {
     @Override
     public int nwd(int x, int y) {
         if (x < 0) {
